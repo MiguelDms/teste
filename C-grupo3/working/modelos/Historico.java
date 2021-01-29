@@ -1,4 +1,4 @@
 package working.modelos;
 
-public class Medico {
+public class Historico {
 }
