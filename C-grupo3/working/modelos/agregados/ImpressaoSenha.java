@@ -1,2 +1,4 @@
-package working.modelos.agregados;public class ImpressaoSenha {
+package working.modelos.agregados;
+
+public class ImpressaoSenha {
 }

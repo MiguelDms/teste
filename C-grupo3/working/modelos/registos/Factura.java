@@ -1,2 +1,4 @@
-package working.modelos.registos;public class Factura {
+package working.modelos.registos;
+
+public class Factura {
 }
